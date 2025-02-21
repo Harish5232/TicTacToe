@@ -1,0 +1,52 @@
+.container {
+    text-align: center;
+}
+.title {
+    margin-top: 50px;
+    color: white;
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.title span {
+    color: #26ffcb;
+    padding: 15px;
+}
+.Reset {
+    height: 100px;
+    width: 250px;
+    border: none;
+    outline: none;
+    color: #26ffcb;
+    border-radius: 50px;
+    background: #1f3540;
+    cursor: pointer;
+    font-size: 35px;
+    padding: 10px;
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+.box {
+    width: 180px;
+    height: 180px;
+    border-radius: 15px;
+    display: flex;
+    background: #1f3540;
+    cursor: pointer;
+    border: 5px solid #0f1b21;
+}
+.board {
+    height: 600px;
+    width: 564px;
+    margin: auto;
+    display: flex;
+}
+.box img {
+    margin: 20px 20px;
+}
+.title img {
+    color: white;
+    padding: 20px;
+    height: 70px;
+}
